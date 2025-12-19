@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Mərkəzdə 2 otaqlı mənzil",
+    "price": 450,
+    "rooms": 2,
+    "image": "src/merkezdeki2.png",
+    "location": "Bakı",
+    "description": "Mərkəzdə rahat mənzil, 2 otaqlı, tam təmirli."
+  },
+  {
+    "id": 2,
+    "title": "Rusiyada 3 otaqlı mənzil",
+    "price": 1000,
+    "rooms": 3,
+    "image": "src/merkezdeki2.png",
+    "location": "Rusiya",
+    "description": "V.İ.P. binada 3 otaqlı mənzil, əla təmirli."
+  },
+  {
+    "id": 3,
+    "title": "Xırdalanda həyət evi",
+    "price": 300,
+    "rooms": 3,
+    "image": "src/merkezdeki2.png",
+    "location": "Xırdalan",
+    "description": "Sakit ərazidə geniş həyət evi."
+  },
+  {
+    "id": 4,
+    "title": "Tam təmirli 1 otaqlı mənzil",
+    "price": 250,
+    "rooms": 1,
+    "image": "src/merkezdeki2.png",
+    "location": "Qusar",
+    "description": "Qusarda 1 otaqlı rahat mənzil."
+  },
+  {
+    "id": 5,
+    "title": "İsmayıllıda çaykənarı mənzil",
+    "price": 500,
+    "rooms": 3,
+    "image": "src/merkezdeki2.png",
+    "location": "İsmayıllı",
+    "description": "Çay kənarında yerləşən tam təmirli mənzil."
+  },
+  {
+    "id": 6,
+    "title": "Bakıda 1 otaqlı mənzil",
+    "price": 400,
+    "rooms": 1,
+    "image": "src/merkezdeki2.png",
+    "location": "Bakı",
+    "description": "Şəhərin mərkəzində rahat mənzil."
+  },
+  {
+    "id": 7,
+    "title": "Balakəndə həyət evi",
+    "price": 425,
+    "rooms": 2,
+    "image": "src/merkezdeki2.png",
+    "location": "Balakən",
+    "description": "Sakit məkanda 2 otaqlı həyət evi."
+  },
+  {
+    "id": 8,
+    "title": "Qazaxda 3 otaqlı mənzil",
+    "price": 475,
+    "rooms": 3,
+    "image": "src/merkezdeki2.png",
+    "location": "Qazax",
+    "description": "Geniş və işıqlı 3 otaqlı mənzil."
+  },
+  {
+    "id": 9,
+    "title": "Sumqayıtda yeni tikili",
+    "price": 550,
+    "rooms": 2,
+    "image": "src/merkezdeki2.png",
+    "location": "Sumqayıt",
+    "description": "Yeni tikilidə modern dizaynlı mənzil."
+  },
+  {
+    "id": 10,
+    "title": "Gəncədə 4 otaqlı ev",
+    "price": 600,
+    "rooms": 4,
+    "image": "src/merkezdeki2.png",
+    "location": "Gəncə",
+    "description": "Ailə üçün ideal geniş ev."
+  },
+  {
+    "id": 11,
+    "title": "Şəkidə dağ mənzərəli ev",
+    "price": 350,
+    "rooms": 2,
+    "image": "src/merkezdeki2.png",
+    "location": "Şəki",
+    "description": "Təbiət mənzərəli rahat ev."
+  },
+  {
+    "id": 12,
+    "title": "Lənkəranda bağ evi",
+    "price": 480,
+    "rooms": 3,
+    "image": "src/merkezdeki2.png",
+    "location": "Lənkəran",
+    "description": "Bağ içində yerləşən komfortlu ev."
+  }
+]
